@@ -4,7 +4,7 @@ Status: **PASSED** (manual test, recorded by the project lead)
 
 Scope: the Phase 1 offline-first reporting prototype. Synthetic data only. Not a production sign-off.
 
-Test date: [to be entered by tester]
+Test date: 17 November 2026
 Device: Windows laptop, Google Chrome (desktop)
 Build: production build served with `npm run preview` (http://127.0.0.1:4173)
 
@@ -23,7 +23,7 @@ Build: production build served with `npm run preview` (http://127.0.0.1:4173)
 | 7 | When connectivity is restored, the report synchronises. | Passed |
 | 8 | The report moves to **Submitted** only after the simulated server receipt. | Passed |
 
-Tester sign-off: [name and date to be entered by tester]
+Tester sign-off: Molly Noble, 17 November 2026
 
 ## Automated evidence
 
